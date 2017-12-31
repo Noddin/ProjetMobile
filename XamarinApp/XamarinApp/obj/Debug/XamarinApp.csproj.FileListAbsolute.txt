@@ -1,0 +1,78 @@
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\XamarinApp.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\XamarinApp.pdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.xml
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.csprojResolveAssemblyReference.cache
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.csproj.CoreCompileInputs.cache
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.App.xaml.g.cs
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.Views.AboutPage.xaml.g.cs
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.Views.ItemDetailPage.xaml.g.cs
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.Views.ItemsPage.xaml.g.cs
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.pdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.DataBinding.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.Sync.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.xml
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.DataBinding.xml
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.Sync.xml
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.Views.EditItemPage.xaml.g.cs
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.Views.AddItemPage.xaml.g.cs
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\XamarinApp.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\XamarinApp.pdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.DataBinding.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.Sync.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.DataBinding.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.Sync.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.csprojResolveAssemblyReference.cache
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.csproj.CoreCompileInputs.cache
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.App.xaml.g.cs
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.Views.AboutPage.xaml.g.cs
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.Views.ItemDetailPage.xaml.g.cs
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.Views.ItemsPage.xaml.g.cs
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.Views.AddItemPage.xaml.g.cs
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.Views.EditItemPage.xaml.g.cs
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.pdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\XamarinApp.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\XamarinApp.pdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.DataBinding.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.Sync.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.xml
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.DataBinding.xml
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Realm.Sync.xml
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Core.xml
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.csprojResolveAssemblyReference.cache
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.csproj.CoreCompileInputs.cache
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.App.xaml.g.cs
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.Views.AboutPage.xaml.g.cs
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.Views.ItemDetailPage.xaml.g.cs
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.Views.ItemsPage.xaml.g.cs
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.Views.AddItemPage.xaml.g.cs
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.Views.EditItemPage.xaml.g.cs
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp\obj\Debug\XamarinApp.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Devices>
+  <Device id="01e90b29fc84b718">
+    <ResultingAbi></ResultingAbi>
+    <SdkVersion>26</SdkVersion>
+  </Device>
+  <Device id="emulator-5554">
+    <ResultingAbi></ResultingAbi>
+    <SdkVersion>25</SdkVersion>
+  </Device>
+  <Device id="02695f95187f40b1">
+    <ResultingAbi></ResultingAbi>
+    <SdkVersion>27</SdkVersion>
+  </Device>
+</Devices>

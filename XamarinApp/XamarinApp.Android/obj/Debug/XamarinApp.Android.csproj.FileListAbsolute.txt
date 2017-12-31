@@ -1,0 +1,219 @@
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.Android.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.Android.pdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\com.companyname.XamarinApp.apk
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\com.companyname.XamarinApp-Signed.apk
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\FormsViewGroup.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Core.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.pdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\FormsViewGroup.pdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Core.xml
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\XamarinApp.Android.csprojResolveAssemblyReference.cache
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\XamarinApp.Android.csproj.CoreCompileInputs.cache
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\XamarinApp.Android.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\XamarinApp.Android.pdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\bin\com.companyname.XamarinApp.apk
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\layout\tabbar.xml
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\layout\toolbar.xml
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\values\styles.xml
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\drawable\xamarin_logo.png
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\drawable-hdpi\icon.png
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\R.cs.flag
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\uploadflags.txt
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.dll.mdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.Android.dll.mdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\XamarinApp.Android.dll.mdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\XamarinApp.dll.mdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.DataBinding.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.Sync.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Remotion.Linq.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.pdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.xml
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.DataBinding.pdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.Sync.pdb
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.Sync.xml
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Remotion.Linq.xml
+D:\Documents\ESIEA\4A\Mobile\Projet Mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.Android.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.Android.pdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\com.companyname.XamarinApp.apk
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\com.companyname.XamarinApp-Signed.apk
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\FormsViewGroup.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.DataBinding.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.Sync.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Remotion.Linq.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Core.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.pdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.dll.mdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\FormsViewGroup.pdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.pdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.DataBinding.pdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.Sync.pdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.Sync.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Remotion.Linq.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Core.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\XamarinApp.Android.csprojResolveAssemblyReference.cache
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\XamarinApp.Android.csproj.CoreCompileInputs.cache
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\XamarinApp.Android.dll
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\XamarinApp.Android.pdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\bin\com.companyname.XamarinApp.apk
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\layout\tabbar.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\layout\toolbar.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\values\styles.xml
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\drawable\xamarin_logo.png
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\drawable-hdpi\icon.png
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\R.cs.flag
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\uploadflags.txt
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.Android.dll.mdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\XamarinApp.Android.dll.mdb
+D:\Downloads\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\XamarinApp.dll.mdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.Android.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.Android.pdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\com.companyname.XamarinApp.apk
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\com.companyname.XamarinApp-Signed.apk
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\FormsViewGroup.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Newtonsoft.Json.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.DataBinding.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.Sync.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Remotion.Linq.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Core.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.pdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.dll.mdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\FormsViewGroup.pdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Newtonsoft.Json.xml
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.pdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.xml
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.DataBinding.pdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.Sync.pdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Realm.Sync.xml
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Remotion.Linq.xml
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Core.xml
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\XamarinApp.Android.csprojResolveAssemblyReference.cache
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\XamarinApp.Android.csproj.CoreCompileInputs.cache
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\XamarinApp.Android.dll
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\XamarinApp.Android.pdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\bin\com.companyname.XamarinApp.apk
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\layout\tabbar.xml
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\layout\toolbar.xml
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\values\styles.xml
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\drawable\xamarin_logo.png
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\drawable-hdpi\icon.png
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\R.cs.flag
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\uploadflags.txt
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\bin\Debug\XamarinApp.Android.dll.mdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\XamarinApp.Android.dll.mdb
+D:\Noddin\Documents\_ESIEA\4A\Programmation mobile\XamarinApp\XamarinApp\XamarinApp.Android\obj\Debug\android\assets\XamarinApp.dll.mdb
